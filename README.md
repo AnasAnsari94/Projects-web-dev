@@ -1,4 +1,4 @@
-# 🎓 School Management Web Application
+# 🎓 Todo-app-with-notes
 
 A simple full-stack web application built using **Node.js**, **Express**, and **vanilla HTML, CSS, and JavaScript**.  
 The backend serves both REST APIs and static frontend content from the `public/` folder.  
